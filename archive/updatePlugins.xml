@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-       http://61.155.2.142:5883/cideupdate2/222/updatePlugins.xml
+       https://lawever.com/archive/updatePlugins.xml
 -->
 <plugins>
     <plugin id="com.csii.intellij.cide"  version="2.5.7"
-            url="https://lawever.com/intellij-cide-2.5.7.zip">
+            url="https://lawever.com/archive/intellij-cide-2.5.7.zip">
         <idea-version since-build="231.4" until-build="232.*"/>
         <change-notes>
             <![CDATA[
