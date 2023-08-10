@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+       http://61.155.2.142:5883/cideupdate2/222/updatePlugins.xml
+-->
+<plugins>
+    <plugin id="com.csii.intellij.cide"  version="2.5.7"
+            url="https://lawever.com/intellij-cide-2.5.7.zip">
+        <idea-version since-build="231.4" until-build="232.*"/>
+        <change-notes>
+            <![CDATA[
+      <b>cide</b> is a plugin for PCBS Development.
+      <br/>This version is based on  PCBS v220,Intellij IDEA 2023.1.4+.
+      <br/>
+      <b>Features</b>
+      <ul>
+        <li>Dictionary</li>
+        <li>Error code</li>
+        <li>Constant and Enum</li>
+        <li>TSql and Nsql</li>
+        <li>Oltp,batch and async</li>
+      </ul>
+]]>
+        </change-notes>
+        <name>Cide</name>
+        <description>Cide</description>
+    </plugin>
+</plugins>
